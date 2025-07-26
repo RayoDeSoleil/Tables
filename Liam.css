@@ -16,3 +16,37 @@
   background: linear-gradient(rgba(167,130,111,1) 50%, rgba(167,130,111,0) 60%), no-repeat bottom/100% url('https://i.ibb.co/s9TBgf4S/81225655-995266907496046-3969996822276019246-n.jpg');
   padding-bottom: 275px;
 }
+
+.liam_clay_padding {
+  padding: 50px;
+}
+
+.liam_clay_name {
+  font-family: 'Mrs Saint Delafield', cursive;
+  font-weight: 400;
+  font-style: normal;
+  font-size: 72px;
+  text-align: center;
+  text-shadow: 0px 0px 5px #392116;
+  color: #c5a18f;
+}
+
+.liam_clay_content {
+  background: rgba(197,161,143,.5);
+  border-left: 2px solid #c5a18f;
+  border-right: 2px solid #c5a18f;
+  box-shadow: 0px 0px 3px #392116;
+}
+
+.liam_clay_quote {
+  background: #c5a18f;
+  padding: 2px;
+  font-size: 10px;
+  text-transform: uppercase;
+  text-align: center;
+}
+
+.liam_clay_post {
+  padding: 20px;
+  text-align: justify;
+}
