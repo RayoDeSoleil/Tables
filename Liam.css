@@ -11,3 +11,8 @@
   text-shadow: 0px 0px 0px #392116;
   color: #392116;
 }
+
+.liam_clay_background {
+  background: linear-gradient(rgba(167,130,111,1) 50%, rgba(167,130,111,0) 60%), no-repeat bottom/100% url('https://i.ibb.co/s9TBgf4S/81225655-995266907496046-3969996822276019246-n.jpg');
+  padding-bottom: 275px;
+}
